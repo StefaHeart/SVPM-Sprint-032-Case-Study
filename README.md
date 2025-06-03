@@ -1,43 +1,58 @@
-# SVPM-Sprint-032-Case-Study
-Case study documenting my dual-role contributions as a WordPress Developer and Associate Scrum Master during Sprint 32 with SVPM.
-
-# Sprint 32 Case Study – SVPM
-
-This case study documents my contributions during Sprint 32 as a **WordPress Developer** and **Associate Scrum Master** with SVPM, a nonprofit focused on mentoring Agile professionals through hands-on volunteer experience.
-
-## 🔧 Roles & Responsibilities
-
-- **Associate Scrum Master (ASM)**
-  - Maintained and updated the Sprint Burndown Chart
-  - Scheduled asynchronous Scrum reminders and followed up on team reporting
-  - Assisted with backlog management and alignment with Product Owners
-  - Supported team members with clarifications and resource guidance
-
-- **Developer (WordPress)**
-  - **PBI 1232**: Resolved layout issues on the Meetups & Events page for mobile responsiveness
-  - **PBI 1189**: Collaborated on implementing the Astra theme for the ASVPM website and aligning the header/footer to match branding
-  - Conducted theme edits within the development and production environments
-
-## 🧩 Key Artifacts
-
-- [PBI 1232 – Mobile Layout Fix](./Artifacts/Artifact%20PBI%201232.pptx)
-- [PBI 1189 – Theme & Styling Implementation](./Artifacts/PBI%201189.pptx)
-- [Burndown Chart Sample](./Artifacts/2a56e1c3-dae7-4ad5-95f6-8b2530d708ec.png)
-
-## 📌 Summary
-
-Sprint 32 had 41 story points committed across 6 PBIs. I completed both of my assigned PBIs and led scrum reporting initiatives to maintain visibility and coordination across the team. My role as ASM was mentored with the intention of stepping into the lead Scrum Master role for the following sprint.
-
-## 🛠 Tools & Platforms
-
-- WordPress (Production + Dev)
-- Trello
-- Slack
-- Zoom
-- Google Drive
-- Figma
-- Burndown Chart (Google Sheets)
+# SVPM – Sprint 32 Case Study  
+**Role:** Developer & Associate Scrum Master  
+**Organization:** Silicon Valley Project Management (SVPM)  
+**Sprint Duration:** January – February 2024  
+**Team:** Design & Development (D&D)
 
 ---
 
-> This case study demonstrates both my technical implementation skills and my leadership capabilities in an Agile environment.
+## 🎯 Overview  
+During Sprint 32 at SVPM, I contributed in a hybrid capacity—supporting development tasks while transitioning into the Scrum Master role. This sprint emphasized responsive design improvements, consistent branding across platforms, and Agile delivery support through burndown tracking and team coordination.
+
+---
+
+## 🔧 Developer Contributions
+
+### ✅ PBI 1189 – Implement Astra Theme & Update ASVPM Header/Footer  
+- Applied the Astra theme to ASVPM's WordPress site  
+- Matched visual layout and styling to SVPM branding  
+- Updated header/footer structure for consistency  
+- Worked in both dev and production environments alongside a partner  
+- Resolved usability and accessibility issues in collaboration with the PO
+
+📎 Artifact: [PBI_1189_Artifact_Sprint_32.pptx](./PBI_1189_Artifact_Sprint_32.pptx)
+
+---
+
+### ✅ PBI 1232 – Fix Meetups Page Layout Bug on Mobile  
+- Resolved a mobile rendering issue causing layout overlap  
+- Edited CSS directly within the WordPress environment  
+- Completed testing and implemented changes in both dev and production  
+- Received approval from the PO for deployment
+
+📎 Artifact: [PBI_1232_Artifact_Sprint_32.pptx](./PBI_1232_Artifact_Sprint_32.pptx)
+
+---
+
+## 🤝 Associate Scrum Master Contributions  
+In this sprint, I served as the Associate Scrum Master while being mentored to lead the following sprint. My responsibilities included:
+
+- Updating and maintaining the team's **burndown chart**  
+- Collecting asynchronous **daily scrum reports** via Slack  
+- Following up on missing reports and Trello card updates  
+- Supporting **backlog refinement** and **sprint planning** meetings  
+- Facilitating clear communication between team members and leadership  
+- Preparing PBI coordination messages and updating tracking documentation
+
+> ℹ️ Note: Internal burndown tracking materials are hosted privately within SVPM’s Google Drive and are not publicly accessible.
+
+---
+
+## 🧠 Key Skills Demonstrated  
+- Agile/Scrum framework execution  
+- WordPress customization and theme management  
+- Cross-functional team communication  
+- Project coordination using Trello and Slack  
+- Sprint documentation and reporting  
+
+---
